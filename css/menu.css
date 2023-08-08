@@ -1,0 +1,35 @@
+body {
+    background-image: url(../photo/menu.jpg);
+    background-size:cover;
+    font-family: 'Pixel';
+    color: white;
+    user-select: none;
+}
+
+.menu {
+    height: 440px;
+    width: 700px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+#play {
+    margin:20px auto;
+    color: #FFFFFF;
+    display: block;
+    font-family: 'Pixel';
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    width: 160px;
+    background: #209DCA;
+
+}
+
+@font-face {
+    font-family: 'Pixel';
+    src: url('PressStart2P-Regular.ttf');
+} 
